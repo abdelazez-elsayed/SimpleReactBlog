@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This a simple blog where you can see blogs in home page and create or delete on existing blog.
-This project works on JSON server watches [data/db.json]
-Run this serever using command [npx json-server --watch data/db.json --port 8000]
+This project works on JSON server watches `data/db.json`
+Run this serever using command `npx json-server --watch data/db.json --port 8000`
 ## Available Scripts
 
 In the project directory, you can run:
